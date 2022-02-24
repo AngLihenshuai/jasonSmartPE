@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762336160785",
+    "project_id": "smart-pe-2f7e5",
+    "storage_bucket": "smart-pe-2f7e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762336160785:android:3a84a340228acf227295b0",
+        "android_client_info": {
+          "package_name": "com.codingminds.smartpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762336160785-fna8v2ham6b5n2oajblr1vl5eus749pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqRIdpykhPsQOfmFkG-O1Kj456BpBvgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762336160785-fna8v2ham6b5n2oajblr1vl5eus749pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
